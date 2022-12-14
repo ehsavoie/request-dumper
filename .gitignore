@@ -1,6 +1,20 @@
 # Compiled class file
 *.class
 
+# Maven generated target folders
+target
+
+# IDEA files
+*.iml
+*.ipr
+*.iws
+.idea
+
+# NetBeans files
+nbactions.xml
+nb-configuration.xml
+catalog.xml
+
 # Log file
 *.log
 
